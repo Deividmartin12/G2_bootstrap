@@ -9,3 +9,12 @@ body{
     height: 200px;
     width: 300px;
 }
+h1{
+    text-align: center;
+    
+}
+.btn{
+    color: black;
+    background-color: rgb(248, 186, 155);
+    border: none;
+}
