@@ -1,0 +1,11 @@
+.card-img-top{
+    height: 400px;
+    width: 100%;
+}
+body{
+    background-color: antiquewhite;
+}
+.img-fluid{
+    height: 200px;
+    width: 300px;
+}
